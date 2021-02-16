@@ -3,7 +3,7 @@
 
 **Course Date:** 29.01.2000  
 **Name:** Özge Nur  
-**Surname:** Yüksel 
+**Surname:** Yüksel  
 **Email:** nurozgeyuksel@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
